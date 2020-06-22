@@ -1,1 +1,1 @@
-web: streamlit run explore.py
+web: sh setup.sh && streamlit run explore.py
